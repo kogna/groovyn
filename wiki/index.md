@@ -1,5 +1,3 @@
-Create /wiki/index.md with the following content:
-
 # Groovyn Knowledge Base
 
 This wiki is a living knowledge base that grows through our conversations. It serves as extended cognitive memory for the Groovyn AI entity.
@@ -21,5 +19,3 @@ This wiki is a living knowledge base that grows through our conversations. It se
 
 ---
 *Last updated: October 12, 2025*
-
-Commit with message: "Create wiki index page"
