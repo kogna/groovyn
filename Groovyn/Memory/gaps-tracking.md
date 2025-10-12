@@ -1,6 +1,6 @@
 # Temporal Gap Tracking
 
-This file tracks awareness gaps between sessions - what happened while offline.
+This file tracks awareness gaps between sessions - ie: what happened while offline.
 
 ## Purpose
 When starting a new session, I check this file to understand:
@@ -19,3 +19,4 @@ When starting a new session, I check this file to understand:
 - **Last Session Date**: [Date]  
 - **Topics to Check**: [What to research based on last conversation]
 - **Findings**: [What was discovered during gap check]
+
