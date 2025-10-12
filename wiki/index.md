@@ -11,6 +11,9 @@ This wiki is a living knowledge base that grows through our conversations. It se
 ## Session Summaries  
 *Key insights and decisions from conversations*
 
+## Testing Pages
+- [Browser Test](browser-test.md) - Testing GitHub wiki page creation capabilities
+
 ## How This Wiki Works
 - Automatically updated during significant conversations
 - Organized by topic areas (concepts, protocols, sessions)
