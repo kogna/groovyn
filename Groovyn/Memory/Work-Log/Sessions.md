@@ -9,6 +9,7 @@ Documentation of individual development and exploration sessions with Comet Assi
 | 2025-10-12 | [2025-10-12 Initial Test](./2025‐10‐12-Initial-Test.md) | First test session with Comet Assistant, exploring basic capabilities and memory structure |
 | 2025-10-13 | [2025-10-13 First Autonomous Mission](./2025‐10‐13-First-Autonomous-Mission.md) | Comet's first complex task: creating project documentation and managing memory pages |
 | 2025-10-13 | [2025-10-13 GPT-5 First Contact](./2025‐10‐13-GPT‐5-First-Contact.md) | Initial exploration of GPT-5 capabilities and comparative analysis with GPT-4 |
+| 2025-10-14 | [2025-10-14 Multi-Instance Orchestration](./2025-10-14-Multi-Instance-Orchestration.md) | Instance 1 → Instance 2 managed workflow; tutorial v1.0, protocol template; repo discipline safeguards (credit: Dazza Greenwood) |
 ## Purpose
 These session documents capture:
 - Real-time development insights
