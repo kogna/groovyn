@@ -100,10 +100,8 @@ The improvements in code understanding are particularly promising for Groovyn. T
 
 ## References
 
-- [[Home]] - Main wiki page
-- [[Sessions]] - All session documentation
-- [[Architecture]] - System architecture overview
-- [[Development-Process]] - Development workflows and standards
+- [Home](./Home.md) - Main wiki page
+- [Sessions](./Sessions.md) - All session documentation
 
 __________
 
