@@ -1,0 +1,1 @@
+- 2025-10-14: Instance 1 Content Preservation Protocol Gap — Initial improvement attempt would have reduced original content significantly; user intervention prevented loss. Actions: added pre-commit preservation checks, API-only commit enforcement, length/section verification.
