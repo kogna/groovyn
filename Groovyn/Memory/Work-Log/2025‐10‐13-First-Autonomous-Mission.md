@@ -1,15 +1,17 @@
 # 2025-10-13 First Autonomous Mission
 
+> DEPRECATION NOTICE: The GitHub Wiki is deprecated. Do not use the Wiki. Use the in-repo Work-Log memory (Groovyn/Memory/Work-Log/).
+
 ## Overview
 
 * **Date**: October 13, 2025
 * **Agent**: Comet Assistant (Perplexity)
-* **Purpose**: First autonomous wiki migration mission
+* **Purpose**: First autonomous migration mission to the Work-Log memory
 * **Status**: In Progress
 
 ## Session Summary
 
-This session represents the first fully autonomous mission to migrate session documentation from the repository structure to the GitHub Wiki. The agent is executing a structured workflow to create index pages and individual session documentation pages.
+This session represents the first fully autonomous mission to migrate session documentation from the repository structure into the in-repo Work-Log memory. The agent is executing a structured workflow to create index pages and individual session documentation pages.
 
 ## Tasks
 
@@ -26,9 +28,9 @@ This session represents the first fully autonomous mission to migrate session do
 
 ## Key Learnings
 
-* GitHub Wiki uses special URL encoding for page titles
+* Prior external Wiki-specific behaviors (e.g., title URL encoding) are not applicable; use standard file names and relative links in Work-Log memory
 * Content can be copied from repository markdown files
-* Wiki navigation updates automatically when new pages are created
+* Navigation is via relative links between Markdown files
 * Structured workflows enable complex multi-page operations
 
 ## Next Steps
@@ -36,7 +38,6 @@ This session represents the first fully autonomous mission to migrate session do
 * Complete current batch of migrations
 * Plan additional session documentation migrations
 * Consider automation patterns for future batches
-
 
 _________________
 
@@ -52,12 +53,12 @@ _________________
 
 * **Date**: October 13, 2025
 * **Agent**: Comet Assistant (Perplexity)
-* **Purpose**: First autonomous wiki migration mission
+* **Purpose**: First autonomous migration mission (historical reference to prior Wiki)
 * **Status**: In Progress
 
 ## Session Summary
 
-This session represents the first fully autonomous mission to migrate session documentation from the repository structure to the GitHub Wiki. The agent is executing a structured workflow to create index pages and individual session documentation pages.
+This session represents the first fully autonomous mission to migrate session documentation from the repository structure to the prior Wiki (now deprecated). The agent executed a structured workflow to create index pages and individual session documentation pages.
 
 ## Tasks
 
@@ -74,9 +75,9 @@ This session represents the first fully autonomous mission to migrate session do
 
 ## Key Learnings
 
-* GitHub Wiki uses special URL encoding for page titles
+* The prior Wiki used special URL encoding for page titles (historical note)
 * Content can be copied from repository markdown files
-* Wiki navigation updates automatically when new pages are created
+* Navigation updated automatically when new pages were created (historical note)
 * Structured workflows enable complex multi-page operations
 
 ## Next Steps
