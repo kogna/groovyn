@@ -1,5 +1,7 @@
 # 2025-10-13 GPT-5 First Contact
 
+> DEPRECATION NOTICE: The GitHub Wiki is deprecated. Do not use the Wiki. Use the in-repo Work-Log memory (Groovyn/Memory/Work-Log/).
+
 ## Session Overview
 
 **Date:** October 13, 2025  
@@ -100,7 +102,7 @@ The improvements in code understanding are particularly promising for Groovyn. T
 
 ## References
 
-- [Home](./Home.md) - Main wiki page
+- [Home](./Home.md) - Main memory page
 - [Sessions](./Sessions.md) - All session documentation
 
 __________
