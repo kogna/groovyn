@@ -1,0 +1,1 @@
+Tutorial Workplan for Groovyn: 1. Identify the core concepts and main features of Groovyn. 2. Draft a beginner-friendly step-by-step tutorial for new users. 3. Include annotated screenshots or example commands. 4. Review and revise for clarity and completeness. 5. Finalize and publish the tutorial document as instance_2_tutorial.md.
