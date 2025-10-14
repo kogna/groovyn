@@ -1,3 +1,11 @@
+**Note: Provenance**
+- Created through Instance 1 → Instance 2 managed workflow (2025-10-14)
+- Orchestration pattern design by Dazza Greenwood
+- Committed under approval-gated process with repository verification and time/round limits
+- See `Groovyn/Memory/Work-Log/2025-10-14-Multi-Instance-Orchestration.md` for session narrative
+
+---
+
 # Groovyn: The Agentic Collaboration Paradigm
 
 ---

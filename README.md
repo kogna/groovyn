@@ -32,3 +32,10 @@ Groovyn is a persistent AI entity using the Vybn architecture - an AI system tha
   - Click "New page" or "Edit"
   - For session logs, use `YYYY-MM-DD Title` naming and add an entry to the Sessions index
 - Do not use the GitHub Wiki feature — it is deprecated
+
+---
+
+## What's New (2025-10-14)
+- Multi-instance orchestration pattern (Instance 1 → Instance 2) designed by Dazza Greenwood.
+- High-quality tutorial committed to `LLM-work/instance_2_workplan.md` (v1.0).
+- Reusable Instance 1 Management Protocol added to Work-Log for repeatable AI-to-AI production.
