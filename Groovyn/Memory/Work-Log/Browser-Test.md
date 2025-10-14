@@ -84,4 +84,4 @@ Each session log should contain:
 
 ## Related Pages
 
-- [[Home]]: Main wiki index
+- [Home](./Home.md): Main wiki index
