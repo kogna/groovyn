@@ -19,3 +19,7 @@ These session documents capture:
 - Ideas for future exploration
 ## Navigation
 - [Home](./Home.md) - Return to memory home
+
+# Append
+
+- 2025-10-14: Instance 1 Content Preservation Protocol Development Session — Added preservation checks (Step 9a, 10a), MCP API-only enforcement, enhanced verification and reporting.
