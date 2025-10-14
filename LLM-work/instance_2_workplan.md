@@ -1,4 +1,3 @@
----
 **Note: Provenance**
 - Created through Instance 1 → Instance 2 managed workflow (2025-10-14)
 - Orchestration pattern design by Dazza Greenwood
