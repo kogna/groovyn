@@ -1,5 +1,7 @@
 # Browser Test Specification
 
+> DEPRECATION NOTICE: The GitHub Wiki is deprecated. Do not use the Wiki. Use the in-repo Work-Log memory (Groovyn/Memory/Work-Log/).
+
 ## Purpose
 This page defines how groovyn's Comet assistant should be tested in a real browser environment.
 
@@ -84,4 +86,4 @@ Each session log should contain:
 
 ## Related Pages
 
-- [Home](./Home.md): Main wiki index
+- [Home](./Home.md): Main memory index
