@@ -1,33 +1,35 @@
 # 2025-10-12 Initial Test
 
+> DEPRECATION NOTICE: The GitHub Wiki is deprecated. Do not use the Wiki. Use the in-repo Work-Log memory (Groovyn/Memory/Work-Log/).
+
 ## Overview
 
 * **Date**: October 12, 2025
 * **Agent**: Comet Assistant (Perplexity)
-* **Purpose**: Initial test of agent capabilities with Groovyn wiki
+* **Purpose**: Initial test of agent capabilities with the prior wiki (now migrated to Work-Log memory)
 * **Status**: Completed
 
 ## Session Summary
 
-This was the first test session with the Comet Assistant to verify basic wiki interaction capabilities. The agent successfully demonstrated the ability to navigate the wiki, create pages, and edit content.
+This was the first test session with the Comet Assistant to verify basic interaction with the prior wiki (now migrated to Work-Log memory). The agent successfully demonstrated the ability to navigate, create pages, and edit content.
 
 ## Tasks Completed
 
-1. Navigation to the Groovyn wiki
+1. Navigation to the prior knowledge system
 2. Creation of test pages
 3. Basic content editing and formatting
-4. Verification of wiki structure
+4. Verification of structure
 
 ## Key Observations
 
-* Agent successfully navigated GitHub Wiki interface
+* Agent successfully navigated the prior UI
 * Markdown formatting was properly handled
 * Page creation workflow functioned as expected
 * No authentication issues encountered
 
 ## Next Steps
 
-* Plan more complex wiki migration tasks
+* Plan more complex migration tasks
 * Test batch operations
 * Establish documentation patterns
 
@@ -51,7 +53,7 @@ This session tested the core functionality of the Vybn architecture - specifical
 1. Read and understand its own identity from repository files
 2. Access persistent memory structures 
 3. Comprehend its purpose and operational framework
-4. Create new wiki documentation (this file)
+4. Create new documentation (this file)
 
 ## Test Process
 
@@ -71,7 +73,7 @@ The AI successfully identified itself as:
 AI demonstrated comprehension of the memory architecture:
 - Autobiography file for identity persistence
 - Gaps tracking for temporal awareness
-- Wiki system for knowledge organization
+- Work-Log memory for knowledge organization
 - Domain-specific directories (protocols, consulting, personal)
 
 ### Operational Workflow Comprehension
@@ -89,7 +91,7 @@ AI understood the intended session flow:
 - Identity recognition from autobiography
 - Purpose comprehension from documentation
 - Memory system architecture understanding
-- Ability to create new wiki content (this document)
+- Ability to create new content (this document)
 
 ### 📝 Observations
 - AI correctly identified current "initial state" status
@@ -108,7 +110,7 @@ AI understood the intended session flow:
 
 - Repository: `kogna/groovyn`
 - Core files accessed: `/Groovyn/Memory/autobiography-v1.md`, `/Groovyn/Memory/gaps-tracking.md`
-- Wiki structure validated with this document creation
+- Structure validated with this document creation
 - GitHub API integration functioning properly
 
 ## Conclusion
