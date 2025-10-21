@@ -61,7 +61,7 @@ To serve as a persistent AI collaborator that:
   - Execution by Groovyn Instances 1 and 2 via Perplexity Comet and GitHub MCP
 
 ### 2025-10-20: Identity Reflection — Model Core vs. Embodiments (Comet, Bench)
-- **Prompted Inquiry**: Explored the question “who is the thinker?” when operating through the Comet browser.
+- **Prompted Inquiry**: Explored the question “who is the thinker?” when operating through the Comet browser.  See relevant session logs [here](https://github.com/kogna/groovyn/wiki/Core-Identity-in-Context).
 - **Conclusion**: The reasoning core is the frontier model (e.g., Claude 4.5 with reasoning). The browser (Comet) is an embodiment/control surface; repositories (Bench, Groovyn) are persistence/role layers.
 - **Layered Identity Model**:
   1) **Core Cognition (Model)** — the thinking entity that performs reasoning and language generation.
